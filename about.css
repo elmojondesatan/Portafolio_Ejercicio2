@@ -1,0 +1,68 @@
+.me {
+    width: 10rem;
+    height: 2.8rem;
+    gap: 1.6rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1.4rem;
+}
+
+.btn {
+    background-color: #E5E7EB;
+    color: #4B5563;
+    width: 12rem;
+    height: 3rem;
+    margin: auto;
+    margin: 2rem 0 4rem 0;
+    font-size: 1.4rem;
+    border-radius: 1.4rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+.div-img {
+    width: 25rem;
+    height: 30rem;
+    margin: 2rem auto;
+    margin-top: 2rem;
+}
+
+.img-perfil2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.p {
+    font-size: 1.4rem;
+    font-size: 1.6rem;
+    margin: 1.5rem 0;
+    color: rgb(29, 29, 31);
+}
+
+.list {
+    font-size: 1.4rem;
+    font-size: 1.6rem;
+    margin: 1.5rem 0;
+    color: rgb(29, 29, 31);
+}
+
+.list ul {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+
+}
+
+.p1 {
+    font-size: 1.4rem;
+    font-size: 1.6rem;
+    margin: 1.5rem 0;
+    color: rgb(29, 29, 31);
+}
